@@ -7,6 +7,8 @@
 - Submitted 3 project proposals
 
 # Stage Two - Investigation
+- Created a survey on Google Sheets and posted onto various climbing subreddits and the UCalgary climbing facebook group and received 37 repsonses 
+- Conducted 7 in person interviews with climbers
 # Stage Three - Ideate & Prototyping
 # Stage Four - Prototyping & Evaluation
 # Stage Five - Produce
