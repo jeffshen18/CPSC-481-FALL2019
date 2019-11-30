@@ -19,4 +19,8 @@
 - <a href="https://jeffshen18.github.io/CPSC-481-Fall-2019/lowfidelityprototype.pdf" target="_blank"> Low Fidelity Prototype </a>
 
 # Stage Four - Prototyping & Evaluation
+- Below are our heuristic evaluations for Campus Connect
+- <a href="https://jeffshen18.github.io/CPSC-481-Fall-2019/Heuristic%20Eval%20JonathanHarris.pdf" target="_blank"> Jonathan Harris </a>
+- 
+
 # Stage Five - Produce
