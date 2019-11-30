@@ -21,6 +21,13 @@
 # Stage Four - Prototyping & Evaluation
 - Below are our heuristic evaluations for Campus Connect
 - <a href="https://jeffshen18.github.io/CPSC-481-Fall-2019/Heuristic%20Eval%20JonathanHarris.pdf" target="_blank"> Jonathan Harris </a>
-- 
+- <a href="https://jeffshen18.github.io/CPSC-481-Fall-2019/Heuristic-Evaluation%20Jason%20Han.pdf" target="_blank"> Jason Han </a>
+- <a href="https://jeffshen18.github.io/CPSC-481-Fall-2019/Heuristic-Evaluation%20Jeffrey%20Shen.pdf" target="_blank"> Jeffrey Shen </a>
+- <a href="https://jeffshen18.github.io/CPSC-481-Fall-2019/Heuristic-Evaluation-John-Strachan.pdf" target="_blank"> John Strachan </a>
+- <a href="https://jeffshen18.github.io/CPSC-481-Fall-2019/Heuristic-Evaluation-Pierce-de-Jong.pdf" target="_blank"> Pierce de Jong </a>
+- Below are our HiFi prototypes before and after heuristic evaluations
+- <a href="https://jeffshen18.github.io/CPSC-481-Fall-2019/HIFIbefore.xd" target="_blank"> Before Heuristic Evaluations </a>
+- <a href="https://jeffshen18.github.io/CPSC-481-Fall-2019/HiFiAfter.xd" target="_blank"> After Heuristic Evaluations </a>
+- <a href="https://jeffshen18.github.io/CPSC-481-Fall-2019/Summary-of-Heuristic-Evaluations.pdf" target="_blank"> Summary of Heuristic Evaluations </a>
 
 # Stage Five - Produce
