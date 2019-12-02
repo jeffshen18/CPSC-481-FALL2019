@@ -30,4 +30,11 @@
 - <a href="https://jeffshen18.github.io/CPSC-481-Fall-2019/HiFiAfter.xd" target="_blank"> After Heuristic Evaluations </a>
 - <a href="https://jeffshen18.github.io/CPSC-481-Fall-2019/Summary-of-Heuristic-Evaluations.pdf" target="_blank"> Summary of Heuristic Evaluations </a>
 
-# Stage Five - Produce
+# Stage Five - Production & Wrap up
+- <a href="https://jeffshen18.github.io/CPSC-481-Fall-2019/Group-3.3-Stage-5.pptx" target="_blank"> Final Presentation </a>
+- <a href="https://jeffshen18.github.io/CPSC-481-Fall-2019/Group3.3FinalReport.pdf" target="_blank"> Final Report </a>
+- <a href="https://jeffshen18.github.io/CPSC-481-Fall-2019/Live%20Link%20to%20HIFI.docx" target="_blank"> Link to Final HiFi Prototype </a>
+- <a href="https://jeffshen18.github.io/CPSC-481-Fall-2019/HiFI%20Final%20Submission.xd" target="_blank"> Final HiFi Submission </a>
+
+
+
